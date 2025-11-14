@@ -1,6 +1,8 @@
 # 🔒 Local CSV Data Visualizer
 
 A simple, 100% private, browser-based tool to instantly chart your CSV data. No sign-ups, no uploads, no tracking.
+
+
 <img width="1863" height="1015" alt="image" src="https://github.com/user-attachments/assets/41995f3d-e687-4197-92cf-17d64e906719" />
 
 ---
